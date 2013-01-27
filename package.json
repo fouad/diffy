@@ -1,0 +1,16 @@
+{
+  "name": "diffy",
+  "description": "Simple diffing tool for json and javascript objects",
+  "author": "Fouad Matin <fm@fouad.co>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fouad/diffy.git"
+  },
+  "version": "0.1.0",
+  "devDependencies": {
+    "mocha": "1.7.0",
+    "which": "1.0.5",
+    "supervisor": "0.5.0"
+  },
+  "main": "lib/diffy"
+}
